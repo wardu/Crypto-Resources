@@ -8,6 +8,7 @@ Resources for trading Bitcoin and Altcoins
 * [Trade Block](https://tradeblock.com/markets)
 * [Trading View](https://www.tradingview.com/chart/BTCUSD/)
 * [alt19 (speadsheet with %d)](http://alt19.com/)
+* [sifrDATA](https://www.sifrdata.com/)
 
 ## Explorers ##
 * [Bitcoin Processing & Block Explorer](https://bitaps.com/)
