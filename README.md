@@ -67,4 +67,5 @@ Resources for trading Bitcoin and Altcoins
 
 ## Blog ##
 * [blockxchain](http://blockxchain.org/)
+* [BitMEX](https://blog.bitmex.com/)
 
