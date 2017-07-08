@@ -70,3 +70,6 @@ Resources for trading Bitcoin and Altcoins
 * [blockxchain](http://blockxchain.org/)
 * [BitMEX](https://blog.bitmex.com/)
 
+## ICO Updates ##
+* [ICOstats](https://icostats.com/vs-btc)
+* [ICO calendar](https://tokenmarket.net/ico-calendar)
