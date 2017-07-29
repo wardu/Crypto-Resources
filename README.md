@@ -9,6 +9,7 @@ Resources for trading Bitcoin and Altcoins
 * [Trading View](https://www.tradingview.com/chart/BTCUSD/)
 * [alt19 (speadsheet with %d)](http://alt19.com/)
 * [sifrDATA](https://www.sifrdata.com/)
+* [Bitcoin Analytics](http://bitcoin-analytics.com/)
 
 ## Explorers ##
 * [Bitcoin Processing & Block Explorer](https://bitaps.com/)
@@ -28,7 +29,6 @@ Resources for trading Bitcoin and Altcoins
 * [BTC38 Chinese Altcoin Exchange](http://www.btc38.com/trade_en.html)
 * [Bitstamp](https://www.bitstamp.net/)
 * [Bittrex](https://bittrex.com/)
-* [BTC-E](https://btc-e.com/)
 * [OKcoin](https://www.okcoin.com/)
 * [Quoine Asian Exchange](https://quoine.com/)
 * [Vaultoro](https://www.vaultoro.com/)
