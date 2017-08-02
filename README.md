@@ -10,6 +10,7 @@ Resources for trading Bitcoin and Altcoins
 * [alt19 (speadsheet with %d)](http://alt19.com/)
 * [sifrDATA](https://www.sifrdata.com/)
 * [Bitcoin Analytics](http://bitcoin-analytics.com/)
+* [BlockChair](https://blockchair.com/)
 
 ## Explorers ##
 * [Bitcoin Processing & Block Explorer](https://bitaps.com/)
