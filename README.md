@@ -43,6 +43,9 @@ Resources for trading Bitcoin and Altcoins
 * [The Rock Trading](https://www.therocktrading.com/en/signup)
 * [AllCoin](https://www.allcoin.com)
 
+## VISA Cards ##
+* [Wirex (UK)](https://app.wirexapp.com/join/xR7ZzG5VGkWxinVuob1KuQ)
+
 ## Hardware/Security ##
 * [Trezor](https://trezor.io/)
 * [Ledger](https://www.ledgerwallet.com/)
