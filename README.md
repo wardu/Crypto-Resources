@@ -12,6 +12,7 @@ Resources for trading Bitcoin and Altcoins
 * [Bitcoin Analytics](http://bitcoin-analytics.com/)
 * [BlockChair](https://blockchair.com/)
 * [CoinHills](https://www.coinhills.com/)
+* [BitInfoCharts](https://bitinfocharts.com/)
 
 ## Explorers ##
 * [Bitcoin Processing & Block Explorer](https://bitaps.com/)
