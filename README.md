@@ -22,6 +22,7 @@ Resources for trading Bitcoin and Altcoins
 * [BTC](https://btc.com/)
 * [EtherChain](https://etherchain.org/)
 * [So Chain](https://chain.so/btc)
+* [Wallet Explorer!](https://www.walletexplorer.com/)
 
 ## Exchanges ##
 * [Kraken](https://www.kraken.com/)
