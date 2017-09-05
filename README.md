@@ -13,6 +13,7 @@ Resources for trading Bitcoin and Altcoins
 * [BlockChair](https://blockchair.com/)
 * [CoinHills](https://www.coinhills.com/)
 * [BitInfoCharts](https://bitinfocharts.com/)
+* [bfxData](https://www.bfxdata.com/swaphistory/totals)
 
 ## Explorers ##
 * [Bitcoin Processing & Block Explorer](https://bitaps.com/)
