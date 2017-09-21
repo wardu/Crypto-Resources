@@ -1,5 +1,5 @@
 # Crypto-Resources
-Resources for trading Bitcoin and Altcoins 
+Resources for trading Bitcoin and Altcoins
 
 ## Data Sources ##
 * [CryptoCurrency Market Capitalizations](https://coinmarketcap.com/)
@@ -45,6 +45,7 @@ Resources for trading Bitcoin and Altcoins
 * [All Coin](https://www.allcoin.com)
 * [The Rock Trading](https://www.therocktrading.com/en/signup)
 * [AllCoin](https://www.allcoin.com)
+* [ShapeShift](https://shapeshift.io/#/coins)
 
 ## VISA Cards ##
 * [Wirex (UK)](https://app.wirexapp.com/join/xR7ZzG5VGkWxinVuob1KuQ)
