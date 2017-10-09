@@ -15,6 +15,9 @@ Resources for trading Bitcoin and Altcoins
 * [BitInfoCharts](https://bitinfocharts.com/)
 * [bfxData](https://www.bfxdata.com/swaphistory/totals)
 
+## Events ##
+* [Crypto-Calendar](http://coinmarketcal.com/)
+
 ## Explorers ##
 * [Bitcoin Processing & Block Explorer](https://bitaps.com/)
 * [Bitcoin Explorer](https://bitinfocharts.com/bitcoin/explorer/)
