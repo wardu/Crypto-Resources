@@ -33,6 +33,7 @@ Use these links to jump to section
 |  [BlockChair](https://blockchair.com/) |  Nice Graphics - Blockchain related | 
 |  [BitInfoCharts](https://bitinfocharts.com/) |  Data, inc. Mean Transaction Value for each Crypto | 
 |  [bfxData](https://www.bfxdata.com/swaphistory/totals)| Margin Trading Metrics, inc. "Open Interest", Lending Rate ... |
+|  [Amulet](https://amuletplatform.com/data/coin/84)| Real-time sentiment analysis overlayed on price history |
 
 
 
