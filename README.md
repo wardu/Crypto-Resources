@@ -2,36 +2,36 @@
 Resources For Those Trading Bitcoin / Altcoins
 
 
-## Index ## 
+## Index ##
 Use these links to jump to section
 
  * [Data Sources](#data-sources)
- * [Crypto Events & ICO Updates](#crypto-events-and-ico-updates)  
- * [Blogs](#blogs-and-forums)   
+ * [Crypto Events & ICO Updates](#crypto-events-and-ico-updates)
+ * [Blogs](#blogs-and-forums)
  * [Further Reading](#further-reading)
  * [Abitrage](#arbitrage)
- * [Hardware](#hardware)    
+ * [Hardware](#hardware)
  * [Exchanges](#exchanges)
- * [Block Explorers](#block-explorers)   
- 
+ * [Block Explorers](#block-explorers)
+ * [Alerting](#alerting)
 
 
 
 ## Data Sources ##
 
-|   |   | 
+|   |   |
 |---|---|
 |  [CoinCap](http://coincap.io/)  |  Price, Market Cap', VWAP ... |
 |  [CoinMarketCap](https://coinmarketcap.com/)  | Price, Market Cap', API ...  |
-|  [Coin Gecko](https://www.coingecko.com/en)  | Metrics inc. 'Price', 'Public Interest', 'Developer Rating', 'Community Score'  | 
-|  [Bit Nodes](https://bitnodes.21.co/) |   Info-graphic / Global Map Showing Bitcoin Node Locations| 
-|  [Trade Block](https://tradeblock.com/markets) | Graphical with Market Depth, Order book and Exchange Prices  | 
-|  [Trading View](https://www.tradingview.com/chart/BTCUSD/) |  Interactive Chart and News Feed | 
-|  [alt19](http://alt19.com/) |  Interactive Spreadsheet for ALTcoins | 
-|  [sifrDATA](https://www.sifrdata.com/) |  Data Analysis, inc. Correlation, Sharpe Ratio ... | 
-|  [Bitcoin Analytics](http://bitcoin-analytics.com/) | OrderBook Volume Graphics amongst other data | 
-|  [BlockChair](https://blockchair.com/) |  Nice Graphics - Blockchain related | 
-|  [BitInfoCharts](https://bitinfocharts.com/) |  Data, inc. Mean Transaction Value for each Crypto | 
+|  [Coin Gecko](https://www.coingecko.com/en)  | Metrics inc. 'Price', 'Public Interest', 'Developer Rating', 'Community Score'  |
+|  [Bit Nodes](https://bitnodes.21.co/) |   Info-graphic / Global Map Showing Bitcoin Node Locations|
+|  [Trade Block](https://tradeblock.com/markets) | Graphical with Market Depth, Order book and Exchange Prices  |
+|  [Trading View](https://www.tradingview.com/chart/BTCUSD/) |  Interactive Chart and News Feed |
+|  [alt19](http://alt19.com/) |  Interactive Spreadsheet for ALTcoins |
+|  [sifrDATA](https://www.sifrdata.com/) |  Data Analysis, inc. Correlation, Sharpe Ratio ... |
+|  [Bitcoin Analytics](http://bitcoin-analytics.com/) | OrderBook Volume Graphics amongst other data |
+|  [BlockChair](https://blockchair.com/) |  Nice Graphics - Blockchain related |
+|  [BitInfoCharts](https://bitinfocharts.com/) |  Data, inc. Mean Transaction Value for each Crypto |
 |  [bfxData](https://www.bfxdata.com/swaphistory/totals)| Margin Trading Metrics, inc. "Open Interest", Lending Rate ... |
 
 
@@ -100,7 +100,7 @@ Use these links to jump to section
 |  [Ledger](https://www.ledgerwallet.com/) | Ark, Bitcoin, Bitcoin Cash, Dash, Doge, ETH, ETC, Litecoin, Ripple, Stratis, Zcash |
 |  [Keep Key](https://www.keepkey.com/) |  Bitcoin, Litecoin, Dogecoin, Namecoin, Testnet, Ethereum, and Dash |
 | [CryptoSteel](http://cryptosteel.com/)  |  Solid Metal 'Paper Wallet' |
- 
+
 
 ## Arbitrage ##
 
@@ -110,7 +110,13 @@ Use these links to jump to section
 | [Haas Online Bot](https://www.haasonline.com/features/)  |  Pay For - Bot Service |
 | [Dallas Fed Research paper](http://econpapers.repec.org/scripts/redir.pf?u=https%3A%2F%2Fwww.dallasfed.org%2Finstitute%2F~%2Fmedia%2Fdocuments%2Finstitute%2Fwpapers%2F2016%2F0293.pdf;h=repec:fip:feddgw:293) | Study into Viability of Bitcoin Arbitrage  |
 
- 
+
+## Alerting ##
+
+|   |   |
+|---|---|
+| [Cryptocurrency Alerting](https://cryptocurrencyalerting.com) | Price alerts, exchange listing alerts, wallet monitoring, and network monitoring |
+
 
 ## Further Reading ##
 
