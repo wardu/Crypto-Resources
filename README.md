@@ -5,6 +5,7 @@ Resources For Those Trading Bitcoin / Altcoins
 ## Index ## 
 Use these links to jump to section
 
+ * [Crypto Derivatives](#crypto-derivatives)
  * [Data Sources](#data-sources)
  * [Crypto Events & ICO Updates](#crypto-events-and-ico-updates)  
  * [Blogs](#blogs-and-forums)   
@@ -14,6 +15,15 @@ Use these links to jump to section
  * [Exchanges](#exchanges)
  * [Block Explorers](#block-explorers)   
  
+
+## Crypto Derivatives ##
+
+|   |   |
+|---|---|
+| [Deribit](https://www.deribit.com/) |  Futures & Options Platform |
+| [LedgerX](https://ledgerx.com/)  | Regulated (USA) Options & Spot Platform  |
+
+
 
 
 
